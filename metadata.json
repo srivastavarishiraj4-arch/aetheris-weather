@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris Weather",
+  "description": "Atmospheric weather dashboard with weather-synced gradients, animated meteorological icons, detailed AQI and particle analytics, UV solar curves, day planner, and dressing suggestions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
